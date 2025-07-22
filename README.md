@@ -1,1 +1,1 @@
-The College Fees Management System is a software solution designed to streamline student fee payments, and reporting. The system aims to eliminate manual errors, reduce administrative burdens, and provide real-time updates
+Developed a comprehensive College Fees Management System using Java and SQL fo rdatabase managementEnabled efficient tracking and management of student fees, payments, and records,Utilized Java for frontend development and SQL for database design and management
